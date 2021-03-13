@@ -1,5 +1,25 @@
 # explore
 
+## 이 탭의 목표
+
+### 목표 페이지 발견
+
+카테고리로 묶인 선택지를 통해서 관련 카테고리에서 인기있는 영상을 쉽게 찾을 수 있다.
+
+### 인기 급상승 Creator & Artist
+
+컨텐츠의 다양성을 위해 매일 생기는 새로운 크리에이터와 아티스트들이 팬을 찾을 수 있도록 도와주는 기능
+
+24시간동안 지속되며 파란 뱃지로 이를 표시하고 있다.
+
+우리나라에서는 creator on rise만 설정되어 있음
+
+### 인기 급상승 영상 (Trending videos)
+
+Trending은 유튜브와 세계 곳곳에서 일어나는 일들을 보여주는 탭
+
+즉, 유저에게 새로운 흥미거리를 찾을 수 있게 도와주는 탭임
+
 <!-- <img src="./image/Screenshot_20210310-132744_YouTube.jpg" width="30%">
 <img src="./image/Screenshot_20210310-132936_YouTube.jpg" width="30%">
 <img src="./image/Screenshot_20210310-133022_YouTube.jpg" width="30%">
@@ -27,39 +47,66 @@ Youtube는 거의 모든 연령대, 남녀를 불문하고 사용하고 있으�
 <img src="./image/Screenshot_20210310-133339_YouTube.jpg" width="30%">
 </div>
 
+<br>
+
 커피는 역시 T.O.P
 
-메뉴 대부분이 공통적으로 인기 영상 위주로 상단에 'top 무엇'으로 소개를 해놓아서
+<br>
 
-Game/Sports/News와 같이 동적인 메뉴의 경우 live 라인이 따로 있어서
+메뉴 대부분이 공통적으로 인기 영상 위주로 상단에 'top 무엇'으로 소개를 해놓아서 사람들이 쉽게 영상을 선택해서 볼 수 있게 해줍니다.
+
+<br>
+
+---
+
+<br>
+
+Game/Sports/News와 같이 동적인 메뉴의 경우 live 라인이 따로 있어서 현재 상영 중인 영상이 있다면 바로 시청할 수 있도록 도와줍니다.
 
 <div style="display:flex">
 <img src="./image/Screenshot_20210310-132947_YouTube.jpg" width="30%">
 <img src="./image/Screenshot_20210313-140243_YouTube.jpg" width="30%">
-<img src="./image/Screenshot_20210313-140304_YouTube.jpg" width="30%">\
+<img src="./image/Screenshot_20210313-140304_YouTube.jpg" width="30%">
 </div>
+
+<br>
 
 films과 music과 같이 수익 창출이 되는 탭의 경우 끝없이 다른 장르로 추천을 해줌(추천 탭이 정말 많음) 그러므로 셀렉션이 많은 fashion&beauty채널의 경우 광고주들을 위한 것이라고 할 수 있음
 
-## 이 탭의 목표
+<br>
 
-### 목표 페이지 발견
+<img src="./image/Screenshot_20210313-160633_YouTube.jpg" width="30%">
+<img src="./image/Screenshot_20210313-194515_YouTube.jpg" width="30%">
+<img src="./image/Screenshot_20210313-193955_YouTube.jpg" width="30%">
 
-카테고리로 묶인 선택지를 통해서 관련 카테고리에서 인기있는 영상을 쉽게 찾을 수 있다.
+<br>
 
-### 인기 급상승 Creator & Artist
+영화를 장르 위주로 추천해주다가 아래로 갈수록 특정 인기 많은 만화 또는 시리즈, 영화 배우 위주로 끝없이 추천을 이어가서 어떻게든 소비자가 마음에 들 수 있는 선택권을 가질 수 있게 노력하는 모습을 볼 수 있음
 
-컨텐츠의 다양성을 위해 매일 생기는 새로운 크리에이터와 아티스트들이 팬을 찾을 수 있도록 도와주는 기능
+<br>
 
-24시간동안 지속되며 파란 뱃지로 이를 표시하고 있다.
+디스플레이도 영화포스터와 비슷하게
 
-우리나라에서는 creator on rise만 설정되어 있음
+<br>
 
-### 인기 급상승 영상 (Trending videos)
+<img src="./image/Screenshot_20210313-194807_YouTube.jpg" width="30%">
+<!-- <img src="./image/Screenshot_20210313-194818_YouTube.jpg" width="30%"> -->
+<img src="./image/Screenshot_20210313-195023_YouTube.jpg" width="30%">
+<img src="./image/Screenshot_20210313-194905_YouTube.jpg" width="30%">
 
-Trending은 유튜브와 세계 곳곳에서 일어나는 일들을 보여주는 탭
+<br>
 
-즉, 유저에게 새로운 흥미거리를 찾을 수 있게 도와주는 탭임
+음악의 경우 장르로 분류할 경우 오히려 선택이 어렵고 담을 수 있는 컨텐츠들도 제한적이므로 기분이나 상황에 따라 분류하여 소비자가 쉽게 새로운 음악도 접할 수 있도록 해놓았고 community라는 탭을 첨부하여 인스타그램처럼 아티스트들이 소통할 수 있는 창구도 마련
+
+<br>
+
+디스플레이는 음악 CD와 비슷하게 한 것 같음
+
+<br>
+
+community탭의 경우 아티스트들 즉, 컨텐츠 생산자이면서 동시에 광고주일수도 있는 사람을 대상으로 하는 서비스 같은 개념이 아닐까?
+
+<br>
 
 # explore의 시퀀스 배치
 
