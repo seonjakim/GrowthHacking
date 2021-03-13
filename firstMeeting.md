@@ -2,14 +2,10 @@
 
 <img src="./image/Screenshot_20210310-132744_YouTube.jpg" width="30%">
 <img src="./image/Screenshot_20210310-132936_YouTube.jpg" width="30%">
-<img src="./image/Screenshot_20210310-132947_YouTube.jpg" width="30%">
 <img src="./image/Screenshot_20210310-133022_YouTube.jpg" width="30%">
 <img src="./image/Screenshot_20210310-133040_YouTube.jpg" width="30%">
-<img src="./image/Screenshot_20210310-133122_YouTube.jpg" width="30%">
 <img src="./image/Screenshot_20210310-133301_YouTube.jpg" width="30%">
-<img src="./image/Screenshot_20210310-133311_YouTube.jpg" width="30%">
 <img src="./image/Screenshot_20210310-133317_YouTube.jpg" width="30%">
-<img src="./image/Screenshot_20210310-133339_YouTube.jpg" width="30%">
 <img src="./image/Youtube-BM.jpg" width="100%">
 
 ## 서비스에 상주하고 있는 고객층
@@ -21,6 +17,24 @@ Youtube는 거의 모든 연령대, 남녀를 불문하고 사용하고 있으�
 ## 유저가 행동하는 방향 (각 페이지대로 시퀀스)
 
 유저의 새로운 흥미거리를 찾는 과정
+
+### T.O.P
+
+<div style="display:flex">
+<img src="./image/Screenshot_20210310-132947_YouTube.jpg" width="30%">
+<img src="./image/Screenshot_20210310-133122_YouTube.jpg" width="30%">
+<img src="./image/Screenshot_20210310-133311_YouTube.jpg" width="30%">
+<img src="./image/Screenshot_20210310-133339_YouTube.jpg" width="30%">
+</div>
+
+커피는 역시 T.O.P
+
+메뉴 대부분이 공통적으로 인기 영상 위주로 상단에 추천을 해놓았고, Game/Sports/News와 같이 동적인 메뉴의 경우 live 라인이 따로 있어서
+
+<div style="display:flex">
+<img src="./image/Screenshot_20210313-140243_YouTube.jpg" width="30%">
+<img src="./image/Screenshot_20210313-140304_YouTube.jpg" width="30%">\
+</div>
 
 ## 이 탭의 목표
 
