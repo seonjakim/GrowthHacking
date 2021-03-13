@@ -36,17 +36,17 @@ notion page: [Growth Hacking - ver. Youtube](https://www.notion.so/Growth-Hackin
 
      - 유튜브 오리지널 컨텐츠 이용
 
-       ​		<img src="./image/KakaoTalk_Photo_2021-03-11-17-52-40.jpeg" alt="KakaoTalk_Photo_2021-03-11-17-52-40" style="zoom:50%;" />	광고가 많아 피곤함이 느껴진다.
+       ​		<img src="./image/KakaoTalk_Photo_2021-03-11-17-52-40.jpeg" alt="KakaoTalk_Photo_2021-03-11-17-52-40" style="width:30%;" />	- 광고가 많아 피곤함이 느껴진다.
 
 ### ► User Flow
 
-<img src="./image/_2021-03-13__11.15.07.png" alt="_2021-03-13__11.15.07" style="zoom:50%;" />
+<img src="./image/_2021-03-13__11.15.07.png" alt="_2021-03-13__11.15.07" style="width:100%;" />
 
 ### ► 페이지 별 'User Action'
 
 #### ▷ **'구독' 탭 첫 페이지**
 
-<img src="./image/KakaoTalk_Photo_2021-03-12-19-44-15.jpeg" alt="KakaoTalk_Photo_2021-03-12-19-44-15" style="zoom:50%;width:30%" />
+<img src="./image/KakaoTalk_Photo_2021-03-12-19-44-15.jpeg" alt="KakaoTalk_Photo_2021-03-12-19-44-15" style="width:30%" />
 
 ##### ▻ 구성 요소
 
@@ -67,11 +67,11 @@ notion page: [Growth Hacking - ver. Youtube](https://www.notion.so/Growth-Hackin
 
 #### ▷**필터링** **채널 탐색, 선택**
 
-<img src="./image/Untitled.jpeg" alt="KakaoTalk_Photo_2021-03-12-19-44-15" style="zoom:50%;width:30%" />
+<img src="./image/Untitled.jpeg" alt="KakaoTalk_Photo_2021-03-12-19-44-15" style="width:30%" />
 
 #### ▷**필터링 상황 탐색, 선택**
 
-<img src="./image/Untitled 1.png" alt="Untitled 1" style="zoom:50%;width:30%"/>
+<img src="./image/Untitled 1.png" alt="Untitled 1" style="width:30%"/>
 
 ##### ▻ 필터링 (filterling)
 
@@ -85,7 +85,7 @@ notion page: [Growth Hacking - ver. Youtube](https://www.notion.so/Growth-Hackin
 
 #### ▷**영상 탐색**
 
-<img src="./image/Untitled 2.png" alt="Untitled 2" style="zoom:50%;width:30%" />
+<img src="./image/Untitled 2.png" alt="Untitled 2" style="width:30%" />
 
 ##### ▻ 'User'의 액션
 
@@ -95,8 +95,8 @@ notion page: [Growth Hacking - ver. Youtube](https://www.notion.so/Growth-Hackin
 
 #### ▷**영상 선택**
 
-<img src="./image/KakaoTalk_Photo_2021-03-12-19-44-08.jpeg" alt="KakaoTalk_Photo_2021-03-12-19-44-08" style="zoom:50%;width:30%" />
+<img src="./image/KakaoTalk_Photo_2021-03-12-19-44-08.jpeg" alt="KakaoTalk_Photo_2021-03-12-19-44-08" style="width:30%" />
 
-<img src="./image/KakaoTalk_Photo_2021-03-13-00-52-14.jpeg" alt="KakaoTalk_Photo_2021-03-13-00-52-14" style="zoom:50%;width:30%" />
+<img src="./image/KakaoTalk_Photo_2021-03-13-00-52-14.jpeg" alt="KakaoTalk_Photo_2021-03-13-00-52-14" style="width:30%" />
 
 - 광고 이후 영상이 재생된다.
