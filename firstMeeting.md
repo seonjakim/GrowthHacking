@@ -1,11 +1,11 @@
 # explore
 
-<img src="./image/Screenshot_20210310-132744_YouTube.jpg" width="30%">
+<!-- <img src="./image/Screenshot_20210310-132744_YouTube.jpg" width="30%">
 <img src="./image/Screenshot_20210310-132936_YouTube.jpg" width="30%">
 <img src="./image/Screenshot_20210310-133022_YouTube.jpg" width="30%">
 <img src="./image/Screenshot_20210310-133040_YouTube.jpg" width="30%">
 <img src="./image/Screenshot_20210310-133301_YouTube.jpg" width="30%">
-<img src="./image/Screenshot_20210310-133317_YouTube.jpg" width="30%">
+<img src="./image/Screenshot_20210310-133317_YouTube.jpg" width="30%"> -->
 <img src="./image/Youtube-BM.jpg" width="100%">
 
 ## 서비스에 상주하고 있는 고객층
@@ -29,12 +29,17 @@ Youtube는 거의 모든 연령대, 남녀를 불문하고 사용하고 있으�
 
 커피는 역시 T.O.P
 
-메뉴 대부분이 공통적으로 인기 영상 위주로 상단에 추천을 해놓았고, Game/Sports/News와 같이 동적인 메뉴의 경우 live 라인이 따로 있어서
+메뉴 대부분이 공통적으로 인기 영상 위주로 상단에 'top 무엇'으로 소개를 해놓아서
+
+Game/Sports/News와 같이 동적인 메뉴의 경우 live 라인이 따로 있어서
 
 <div style="display:flex">
+<img src="./image/Screenshot_20210310-132947_YouTube.jpg" width="30%">
 <img src="./image/Screenshot_20210313-140243_YouTube.jpg" width="30%">
 <img src="./image/Screenshot_20210313-140304_YouTube.jpg" width="30%">\
 </div>
+
+films과 music과 같이 수익 창출이 되는 탭의 경우 끝없이 다른 장르로 추천을 해줌(추천 탭이 정말 많음) 그러므로 셀렉션이 많은 fashion&beauty채널의 경우 광고주들을 위한 것이라고 할 수 있음
 
 ## 이 탭의 목표
 
