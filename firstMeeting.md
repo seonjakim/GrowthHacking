@@ -110,9 +110,9 @@ ex. 조회수 10만회 ∙ 1시간 전 / 조회수 10만회 ∙ 2년 전
 #### **- 동영상 선택**
 
 <div style="display:flex">
-  <img src="./image/KakaoTalk_Photo_2021-03-12-19-44-08.jpeg" width="30%"/>
-  <div style="margin: auto">——————— 광고 이후 동영상이 재생된다 ——————→</div>
-  <img src="./image/KakaoTalk_Photo_2021-03-13-00-52-14.jpeg" width="30%"/>
+<img src="./image/KakaoTalk_Photo_2021-03-12-19-44-08.jpeg" width="30%"/>
+<div style="margin: auto">——————— 광고 이후 동영상이 재생된다 ——————→</div>
+<img src="./image/KakaoTalk_Photo_2021-03-13-00-52-14.jpeg" width="30%"/>
 </div>
 
 
