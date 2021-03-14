@@ -72,8 +72,8 @@
 #### **- 필터링** **채널 탐색, 선택 / 필터링 상황 탐색, 선택**
 
 <div style="display:flex">
-	<img src="./image/Untitled.jpeg" width="50%"/>
-	<img src="./image/Untitled 1.png" width="50%"/>
+<img src="./image/Untitled.jpeg" width="30%"/>
+<img src="./image/Untitled 1.png" width="30%"/>
 </div>
 
 ##### ▻ 'User'의 액션
