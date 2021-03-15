@@ -44,14 +44,14 @@
 댓글을 인기순이나 최근 날짜 순으로 정렬 가능 하지만 별로도 정렬 하지 않을 경우의 알고리즘은
 
 - 이전 : '좋아요'를 많이 받은 순으로 댓글이 우선적으로 표출됐다
-- 현재 : 댓글 게시자의 구글플러스 계정과 연동한 평판을 기준으로 동영상과 가장 연관성이 높은 댓글이 먼저 노출된다.
-
-
+- 현재 : 댓글 게시자의 구글플러스 계정과 연동한 평판을 기준으로 동영상과 가장 연관성이 높은 댓글이 먼저 노출된다.   
+   
+   
 끝없는 동영상 추천, 이전에 봤던 영상도 종종 보여줌
 ## 동영상 클릭 → 채널 클릭시 ( ex MBC drama)
 
 
-<img src = "https://user-images.githubusercontent.com/18901638/111093729-f8b54400-857c-11eb-8c95-e7508845bbc4.png" width="70%">
+<img src = "https://user-images.githubusercontent.com/18901638/111093729-f8b54400-857c-11eb-8c95-e7508845bbc4.png" width="70%">   
 
 
 <img src = "https://user-images.githubusercontent.com/18901638/111093169-9871d280-857b-11eb-879d-cba98b83c8e4.png" width="100%">
