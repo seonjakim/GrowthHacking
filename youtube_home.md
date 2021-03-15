@@ -59,10 +59,10 @@
 끝없는 동영상 추천, 이전에 봤던 영상도 종종 보여줌
 ## 동영상 클릭 → 채널 클릭시 ( ex MBC drama)
 
-
+<div style="display:flex">
 <img src = "https://user-images.githubusercontent.com/18901638/111093083-534da080-857b-11eb-9060-89b57ce6ab0e.jpeg" width="30%">
 
 <img src = "https://user-images.githubusercontent.com/18901638/111093128-7d9f5e00-857b-11eb-977e-22c7b98d2563.png" width="30%">
-
+</div>
 
 <img src = "https://user-images.githubusercontent.com/18901638/111093169-9871d280-857b-11eb-879d-cba98b83c8e4.png" width="100%">
