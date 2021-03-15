@@ -51,7 +51,7 @@
 ## 동영상 클릭 → 채널 클릭시 ( ex MBC drama)
 
 
-<img src = "https://user-images.githubusercontent.com/18901638/111093729-f8b54400-857c-11eb-8c95-e7508845bbc4.png" width="80%">
+<img src = "https://user-images.githubusercontent.com/18901638/111093729-f8b54400-857c-11eb-8c95-e7508845bbc4.png" width="70%">
 
 
 <img src = "https://user-images.githubusercontent.com/18901638/111093169-9871d280-857b-11eb-879d-cba98b83c8e4.png" width="100%">
