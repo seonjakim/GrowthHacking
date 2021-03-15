@@ -16,12 +16,7 @@
 
 첫 화면 맨 위 광고 (3~4 번에 한번 정도로 광고 없음) 
 
-<div style="display:flex">
-<img src = "https://user-images.githubusercontent.com/18901638/111092003-19c76600-8578-11eb-8657-0927e12a5a88.png" width="40%">
-
-<img src = "https://user-images.githubusercontent.com/18901638/111092209-c1449880-8578-11eb-8ff1-66902ab6054e.png" width="40%">
-</div>
-
+<img src = "https://user-images.githubusercontent.com/18901638/111094278-4aaa9980-857e-11eb-9722-81f2fcf2ef3e.png" width="60%">
 
 
 ## shorts (현재 한국은 beta)
