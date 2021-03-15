@@ -38,11 +38,7 @@
 3. 공유
 4. 더보기
 
-<div style="display:flex">
-<img src = "https://user-images.githubusercontent.com/18901638/111092890-bc80e400-857a-11eb-8169-2cbaffc7745a.png" width="30%">
-
-<img src = "https://user-images.githubusercontent.com/18901638/111092893-be4aa780-857a-11eb-8d1c-9c2e3505e538.jpeg" width="30%">
-</div>
+<img src = "https://user-images.githubusercontent.com/18901638/111093994-9c065900-857d-11eb-9436-f8c5689d11dd.png" width="60%">
 
 - 왼쪽 → 오른쪽 스크롤
 - 한 화면에 3개 볼 수 있다
@@ -60,8 +56,7 @@
 ## 동영상 클릭 → 채널 클릭시 ( ex MBC drama)
 
 
-<img src = "https://user-images.githubusercontent.com/18901638/111093729-f8b54400-857c-11eb-8c95-e7508845bbc4.png" width="100%">
-
+<img src = "https://user-images.githubusercontent.com/18901638/111093729-f8b54400-857c-11eb-8c95-e7508845bbc4.png" width="80%">
 
 
 <img src = "https://user-images.githubusercontent.com/18901638/111093169-9871d280-857b-11eb-879d-cba98b83c8e4.png" width="100%">
