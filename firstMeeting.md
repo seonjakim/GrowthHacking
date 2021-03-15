@@ -14,7 +14,7 @@
 2. 구독 (유튜브 프리미엄)
    - 유료 서비스 '유튜브 프리미엄' 사용 이유
      - 광고 없이 동영상을 즐기기 위해
-     - 유튜브 뮤직 사용
+     - Youtube TV, Music, Kids, Gaming 사용
      - 동영상 저장 후 오프라인 시청
      - 백그라운드 동영상 재생
      - 유튜브 오리지널 컨텐츠 이용
@@ -41,8 +41,6 @@
 
 - 동영상 생산: 국내 광고수익 유튜브 채널은 9.7만개
 - 동영상 소비: 유튜브 이용자는 3,377만명, (킬링 타임, 정보 습득, 기타(음악 플레이리스트 이용))
-
-⇒ 전 연령대를 아우르는 동영상 소비자.
 
 <br>
 
@@ -234,7 +232,6 @@ explore의 메인 페이지에 이미 trending videos가 떠있음에도 불구�
 ads contribute roughly 10 percent to all Google revenue.
 
 Youtube TV, Music, premium -> subscription business
-https://www.tubics.com/blog/youtube-revenue/
 
 ## Youtube premium
 
@@ -265,6 +262,10 @@ https://fourweekmba.com/how-does-youtube-make-money/#:~:text=YouTube%20Make%20Mo
 <br>
 
 ## > Subscriptions
+
+► 'User'는 누구인가?
+
+: 전 연령대를 아우르는 동영상 소비자.
 
 ### ► 'User'가 동영상 소비를 위해 어떤 액션을 취하는가?
 
@@ -365,6 +366,8 @@ REF.
 [[단독]국민 529명당 1명이 유튜버...세계 1위 '유튜브 공화국' - 머니투데이](https://news.mt.co.kr/mtview.php?no=2021021311274021985)
 
 [멍청이를 위한 IT 데이터 #4 - 유저 액션](https://brunch.co.kr/@happy-mil/7)
+
+[What’s YouTube’s Ad Revenue?](https://www.tubics.com/blog/youtube-revenue)
 
 ---
 
