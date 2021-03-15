@@ -19,4 +19,5 @@
 9. 내 계정
 
 첫 화면 맨 위 광고 (3~4 번에 한번 정도로 광고 없음) 
+
 <img src = "https://user-images.githubusercontent.com/18901638/111092003-19c76600-8578-11eb-8657-0927e12a5a88.png" width="150">
