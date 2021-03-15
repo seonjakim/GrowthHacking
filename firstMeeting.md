@@ -1,8 +1,8 @@
 # explore
 
-## 이 탭의 목표
+## 목표
 
-### 목표 페이지 발견
+### 새로운 흥미 분야 발견
 
 카테고리로 묶인 선택지를 통해서 관련 카테고리에서 인기있는 영상을 쉽게 찾을 수 있다.
 
@@ -20,12 +20,6 @@ Trending은 유튜브와 세계 곳곳에서 일어나는 일들을 보여주는
 
 즉, 유저에게 새로운 흥미거리를 찾을 수 있게 도와주는 탭임
 
-<!-- <img src="./image/Screenshot_20210310-132744_YouTube.jpg" width="30%">
-<img src="./image/Screenshot_20210310-132936_YouTube.jpg" width="30%">
-<img src="./image/Screenshot_20210310-133022_YouTube.jpg" width="30%">
-<img src="./image/Screenshot_20210310-133040_YouTube.jpg" width="30%">
-<img src="./image/Screenshot_20210310-133301_YouTube.jpg" width="30%">
-<img src="./image/Screenshot_20210310-133317_YouTube.jpg" width="30%"> -->
 <img src="./image/Youtube-BM.jpg" width="100%">
 
 ## 서비스에 상주하고 있는 고객층
@@ -75,9 +69,11 @@ films과 music과 같이 수익 창출이 되는 탭의 경우 끝없이 다른 
 
 <br>
 
+<div style="display:flex">
 <img src="./image/Screenshot_20210313-160633_YouTube.jpg" width="30%">
 <img src="./image/Screenshot_20210313-194515_YouTube.jpg" width="30%">
 <img src="./image/Screenshot_20210313-193955_YouTube.jpg" width="30%">
+</div>
 
 <br>
 
@@ -89,10 +85,12 @@ films과 music과 같이 수익 창출이 되는 탭의 경우 끝없이 다른 
 
 <br>
 
+<div style="display:flex">
 <img src="./image/Screenshot_20210313-194807_YouTube.jpg" width="30%">
 <!-- <img src="./image/Screenshot_20210313-194818_YouTube.jpg" width="30%"> -->
 <img src="./image/Screenshot_20210313-195023_YouTube.jpg" width="30%">
 <img src="./image/Screenshot_20210313-194905_YouTube.jpg" width="30%">
+</div>
 
 <br>
 
@@ -105,6 +103,12 @@ films과 music과 같이 수익 창출이 되는 탭의 경우 끝없이 다른 
 <br>
 
 community탭의 경우 아티스트들 즉, 컨텐츠 생산자이면서 동시에 광고주일수도 있는 사람을 대상으로 하는 서비스 같은 개념이 아닐까?
+
+<br>
+
+<img src="./image/Screen Shot 2021-03-15 at 10.33.19.png" width="80%">
+
+<br>
 
 <br>
 
